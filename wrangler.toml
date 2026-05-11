@@ -1,0 +1,8 @@
+name = "telegram-anonymous-bot"
+main = "entry.py"
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "anonymous-bot-db"
+database_id = ""
