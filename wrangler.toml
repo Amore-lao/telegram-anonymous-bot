@@ -5,4 +5,4 @@ compatibility_date = "2025-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "anonymous-bot-db"
-database_id = ""
+database_id = "32bc9d3a-186c-40f9-9b92-b8c41c106738"
